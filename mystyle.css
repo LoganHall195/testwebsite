@@ -1,2 +1,6 @@
 .navbar-nav > li > a {padding-top:41px !important; padding-bottom:41px !important;}
 .navbar {min-height:32px !important}
+.navbar-nav > li{
+  padding-left:15px;
+  padding-right:15px;
+}

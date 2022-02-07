@@ -1,32 +1,8 @@
-#header {
-        background-color: #cccccc;
-        padding: 5px 0;
-    }
-    header {
-        background-color: #f0f0f0;
-    }
-    header nav {
-        border: 1px solid red;
-    }
-    header nav ul {
+body nav li {
+        vertical-align: middle;
         margin: 0;
         padding: 0;
     }
-    header nav li {
-        display: inline;
-        margin: 0;
-        padding: 0;
-    }
-    header nav li img {
+body nav div {
         vertical-align: middle;
-        border: 1px solid blue;
-    }
-    header nav li a {
-        vertical-align: middle;
-        font-size: 1.00em;
-        text-decoration: none;
-        background-color: white;
-        color: black;
-        padding: 10px;
-        margin: 0 0 0 10px;
     }
